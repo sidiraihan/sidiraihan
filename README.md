@@ -7,8 +7,8 @@
 #### Software Engineer  
 >**GreenHCM**  
 >*November 2020 - June 2021*  
->- Developed background services.  
->- Designed and built passwordless authentication for webview.
+>- Develop background services.  
+>- Designed and build passwordless authentication for webview.
 >- Xero <> Xendit payment integration automatic billing
 >- **Technologies:** Ruby, Ruby on Rails, PostgreSQL, Redis.
 #### Programmer  
