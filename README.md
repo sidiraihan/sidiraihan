@@ -1,16 +1,23 @@
-## Hi there 👋
+## Experience
 
-<!--
-**sidiraihan/sidiraihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Engineer  
+**99 Group (99.co | Rumah123 | SRX)**  
+*June 2021 - Present*  
+- Ongoing role as a Web Engineer.
 
-Here are some ideas to get you started:
+### Software Engineer  
+**GreenHCM**  
+*November 2020 - June 2021*  
+- Developed background services.  
+- Designed and built passwordless authentication for webview.
+- Xero <> Xendit payment integration automatic billing
+- **Technologies:** Ruby, Ruby on Rails, PostgreSQL, Redis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmer  
+**Prestisa**  
+*October 2018 - May 2020*  
+- Developed and enhanced an ERP system for e-commerce.
+- Providing data and API  
+- Responsible for maintaining, debugging, testing and deployment
+- Performed technical SEO to support digital marketing.  
+- **Technologies:** Laravel, AngularJS, MongoDB, MySQL, Redis.
