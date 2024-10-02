@@ -6,4 +6,4 @@ Software Engineer @ **[GreenHCM](https://greenhcm.com)**
 Programmer @ **[Prestisa](https://prestisa.com)**  
 
 ##  Tools
-PHP, Python, Apps Script, Ruby, Ruby On Rails, Laravel, MongoDB, MySQL, PostgreSQL, Firebase, Metabase, Redis, Sidekiq, AngularJS, NextJS, React, React Native, Flutter, WordPress.
+PHP, Python, JavaScript, Apps Script, Ruby, Ruby On Rails, Laravel, MongoDB, MySQL, PostgreSQL, Firebase, Metabase, Redis, Sidekiq, AngularJS, NextJS, React, React Native, Flutter, WordPress.
