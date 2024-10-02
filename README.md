@@ -1,14 +1,9 @@
+##  Experience
+Currently working as Web Engineer @ **[99 Group (99.co | Rumah123 | SRX)](https://www.99.co/about-us)**
 
-#### Experience
-#### Web Engineer  
->**99 Group (99.co | Rumah123 | SRX)**  
->*June 2021 - Present*  
+Software Engineer @ **[GreenHCM](https://greenhcm.com)**  
 
-#### Software Engineer  
->**GreenHCM**  
->*November 2020 - June 2021*  
->- **Technologies:** Ruby, Ruby on Rails, PostgreSQL, Redis.
-#### Programmer  
->**Prestisa**  
->*October 2018 - May 2020*  
->- **Technologies:** Laravel, AngularJS, React Native, Flutter, MongoDB, MySQL, Redis.
+Programmer @ **[Prestisa](https://prestisa.com)**  
+
+##  Tools
+PHP, Python, Apps Script, Ruby, Ruby On Rails, Laravel, MongoDB, MySQL, PostgreSQL, Firebase, Metabase, Redis, Sidekiq, AngularJS, NextJS, React, React Native, Flutter, WordPress.
