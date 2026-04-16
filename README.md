@@ -1,7 +1,7 @@
 ##  Experience
 Currently working as Web Engineer @ **[99 Group (99.co | Rumah123 | SRX)](https://www.99.co/about-us)**
 
-Software Engineer @ **[GreenHCM](https://greenhcm.com)**  
+Software Engineer @ **[GreenHCM](https://greenhcm.id)**  
 
 Programmer @ **[Prestisa](https://prestisa.com)**  
 
